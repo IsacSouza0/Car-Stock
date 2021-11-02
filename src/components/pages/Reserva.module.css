@@ -1,0 +1,14 @@
+.reserva_container{
+    width: 450px;
+    margin: 0 auto;
+    padding: 3em;
+
+}
+
+.reserva_container h1{
+    margin-bottom: 0.5em;
+
+}
+.reserva_container p{
+    color: black;
+}
